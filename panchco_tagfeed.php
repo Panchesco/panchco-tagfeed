@@ -4,7 +4,7 @@
  * Plugin URI:
  * Description: Display an Instagram Tag Feed in a widget.
  * Author: Richard Whitmer
- * Version: 0
+ * Version: 1
  * Author URI: http://panchesco.com
  
  Copyright 2014  Richard Whitmer  (email : panchesco@gmail.com)
